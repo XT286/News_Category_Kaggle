@@ -1,5 +1,4 @@
-# News_Category_Kaggle
-This is from a Kaggle Competition. 
+# News_Category
 
 Link to the Competition: https://www.kaggle.com/rmisra/news-category-dataset/home
 
