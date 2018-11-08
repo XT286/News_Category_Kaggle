@@ -16,4 +16,4 @@ CNN:                 loss: 1.5442 - acc: 0.5690 - val_loss: 1.4906 - val_acc: 0.
 BiLSTM:              loss: 1.5175 - acc: 0.5720 - val_loss: 1.2830 - val_acc: 0.6296 <br>
 LSTM with Attention: loss: 0.4631 - acc: 0.8523 - val_loss: 1.8956 - val_acc: 0.5911 <br>
 BiGRU:               <br>
-Remark: We can observe that (from the plots) the validation accuracy of LSTM with Attention actually decline gradually after the 6th epoch, while the training acc keep climbing up. This is an obvious overfitting. Looking forward to fix this!
+Remark: We can observe that (from the plots) the validation accuracy of LSTM with Attention actually decline gradually after the 6th epoch, while the training acc keep climbing up. This is an obvious overfitting. Looking forward to fixing this!
